@@ -14,7 +14,7 @@ WLOラズパイ倶楽部+αは、RaspberryPiやArduinoなどを使った趣味�
 そこで、クラウドサービスを活用することで、Raspberry Piにもともと導入されているソフトウェアだけをつかって、難しいネットワーク機器の設定変更なしで簡単にリモートログインを実現してみたいと思います。
 
 クラウドを利用したリモートログインの仕組みの開設と、
-RealVNC https://www.realvnc.com/en/ を使ったリモートGUI環境、ngrok https://ngrok.com/ 及び serveo https://serveo.net/を用いたリモートコンソール接続をみなさんに体験いただきます。
+RealVNC https://www.realvnc.com/en/ を使ったリモートGUI環境、ngrok https://ngrok.com/ 及び serveo https://serveo.net/ を用いたリモートコンソール接続をみなさんに体験いただきます。
 
 なお、体験いただくためには、
  * GUI環境にアクセス可能でWiFi接続できるRaspberry Pi (ZeroW/ZeroWH/3B/3B+)
