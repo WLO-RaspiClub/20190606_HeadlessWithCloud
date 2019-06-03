@@ -41,18 +41,23 @@ Wonder LAB Osaka　交流スペースHUB <br>
 ### Raspberry Piをお持込になる場合
 
 インストールガイドに参加される方は、以下の機材をご準備ください。
- * WiFi接続可能なRaspberry Pi 本体
-  * (Raspberry Pi 3B / Raspberry Pi 3B+ / Raspberry Pi Zero WH)
+ * WiFi接続可能なRaspberry Pi 本体 (Raspberry Pi 3B / Raspberry Pi 3B+ / Raspberry Pi Zero WH)
  * Raspbian Stretch with desktop 2019-04-08 導入、パッケージ更新済みのmicroSD
  * ACアダプタ(microUSBコネクタ、5V2.5A以上)
  * USBキーボード・マウス
  * HDMIディスプレイ、ケーブル
  * 会場で受信可能なメールアドレス(クラウドサービスの登録に必要)
- * アプリ導入可能なPCもしくはスマートフォンもしくはタブレット端末
-  * PCはWindows10/Linux/MacOS、スマートフォンはAndroid7.0以上、iOS 10以上。
+ * アプリ導入可能なPCもしくはスマートフォンもしくはタブレット端末(PCはWindows10/Linux/MacOS、スマートフォンはAndroid7.0以上、iOS 10以上)
 
-※会場のHDMIディスプレイ使用を希望の場合<br>
-会場のHDMIディスプレイの数に上限がありますのでご希望の場合事前予約をお願いいたします。
+※HDMI接続のディスプレイの貸し出しには数に限りがあります。Peatixで予約いただいた方優先となりますので、残念ながら予約できなかった方は別途モバイルモニタ・HDMIケーブル等をご準備ください。
+
+※ご注意：
+Raspbianのインストールとパッケージの更新はご参加前に事前に行っておいてください。Raspberry Piを購入したまま、インストールや初期設定をしないままでお持ち込みされても、初期設定に時間がかかってしまいますのでハンズオンには参加いただけません。
+
+(導入・初期設定方法は
+「WLOラズパイ倶楽部＋α: Raspbianインストールサポート」
+https://github.com/WLO-RaspiClub/20190411_RaspberryPiInstallSupport
+などを参考にしてください）
 
 ### 見学のみの参加も可能です。
 
